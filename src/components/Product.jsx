@@ -13,13 +13,13 @@ const Product = () => {
     <div className="">
     <p className='text-gray-500'>Also Available On</p>
     <div className="flex gap-2">
-        <img src="/images/flipkart.png" alt="" />
-        <img src="/images/amazon.png" alt="" />
+        <img src="/flipkart.png" alt="" />
+        <img src="/amazon.png" alt="" />
     </div>
             </div>
         </div>
         <div >
-            <img src="/images/hero-image.png" className="w-[530px] h-[488px]" alt="" />
+            <img src="src\hero-image.png" className="w-[530px] h-[488px]" alt="" />
         </div>
     </div>
   )

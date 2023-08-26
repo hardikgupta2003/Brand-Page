@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Brand-Page/static/css/main.7cd55580.css",
+    "main.js": "/Brand-Page/static/js/main.7df1e6e0.js",
+    "index.html": "/Brand-Page/index.html",
+    "main.7cd55580.css.map": "/Brand-Page/static/css/main.7cd55580.css.map",
+    "main.7df1e6e0.js.map": "/Brand-Page/static/js/main.7df1e6e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cd55580.css",
+    "static/js/main.7df1e6e0.js"
+  ]
+}
