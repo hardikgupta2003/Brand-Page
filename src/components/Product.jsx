@@ -1,4 +1,7 @@
 import React from 'react'
+import flipkart from '../images/flipkart.png'
+import amazon from '../images/amazon.png'
+import hero from '../images/hero-image.png'
 
 const Product = () => {
   return (
@@ -13,13 +16,13 @@ const Product = () => {
     <div className="">
     <p className='text-gray-500'>Also Available On</p>
     <div className="flex gap-2">
-        <img src="/flipkart.png" alt="" />
-        <img src="/amazon.png" alt="" />
+        <img src={flipkart} alt="" />
+        <img src={amazon} alt="" />
     </div>
             </div>
         </div>
         <div >
-            <img src="src\hero-image.png" className="w-[530px] h-[488px]" alt="" />
+            <img src={hero} className="w-[530px] h-[488px]" alt="" />
         </div>
     </div>
   )
